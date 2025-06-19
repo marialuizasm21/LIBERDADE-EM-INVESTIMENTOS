@@ -27,7 +27,7 @@ Tudo isso por meio de recursos automatizados, fórmulas avançadas e validaçõe
 - **Pontuação automática** com base nas respostas
 - Determinação do **perfil** com fórmulas como `PROCV`, `SE`, `SOMA` e outras
 
-![Interface do Perfil de Investidor](PERILDOINVESTIDOR.png)
+[![PERILDOINVESTIDOR.png](https://i.postimg.cc/L56WbC5V/PERILDOINVESTIDOR.png)](https://postimg.cc/HcR3JtQJ)
 
 ---
 
@@ -36,7 +36,7 @@ Tudo isso por meio de recursos automatizados, fórmulas avançadas e validaçõe
 - Simulação adaptada ao **perfil de risco identificado**
 - Visualização clara da **projeção patrimonial**
 
-![Simulador de Patrimônio](simulador_patrimonio.png)
+[![simulador-patrimonio.png](https://i.postimg.cc/VL9SRKMh/simulador-patrimonio.png)](https://postimg.cc/XpJ7NcsK)
 
 ---
 
